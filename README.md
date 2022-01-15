@@ -1,2 +1,2 @@
-# GraduationProject
- 졸업작품
+# Practice
+ 연습
